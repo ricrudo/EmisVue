@@ -1,0 +1,16 @@
+/*https://emis.cl/estudio/wp-content/plugins/instagram-feed/css/sbi-styles.min.css?ver=6.2.8*/
+
+@media all and (max-width: 640px){
+#sb_instagram.sbi_col_3 #sbi_images .sbi_item, #sb_instagram.sbi_col_4 #sbi_images .sbi_item, #sb_instagram.sbi_col_5 #sbi_images .sbi_item, #sb_instagram.sbi_col_6 #sbi_images .sbi_item{
+width: 50%;
+}
+
+#sb_instagram.sbi_col_7 #sbi_images .sbi_item, #sb_instagram.sbi_col_8 #sbi_images .sbi_item, #sb_instagram.sbi_col_9 #sbi_images .sbi_item, #sb_instagram.sbi_col_10 #sbi_images .sbi_item{
+width: 25%;
+}
+
+#sb_instagram.sbi_width_resp{
+width: 100% !important;
+}
+}
+

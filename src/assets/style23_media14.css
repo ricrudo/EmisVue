@@ -1,0 +1,12 @@
+/*https://c0.wp.com/p/jetpack/10.1.1/css/jetpack.css*/
+
+@media (max-width:600px){
+#eu-cookie-law{
+padding-bottom:55px}
+
+#eu-cookie-law input.accept{
+bottom:8px;
+position:absolute;
+right:8px}
+}
+

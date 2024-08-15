@@ -1,0 +1,25 @@
+/*https://emis.cl/estudio/wp-content/themes/onetone/style.css?ver=3.0.6*/
+
+@media (max-width: 480px) {
+section.homepage-slider .inner {
+padding-top: 10px;
+padding-bottom: 0;
+}
+
+section.homepage-slider h1,section.homepage-slider h2 {
+font-size: 20px !important;
+line-height: 28px !important;
+margin-bottom:0;
+}
+
+section.homepage-slider p {
+font-size: 12px;
+width: 100%;
+margin: 0 auto;
+}
+
+#onetone-owl-slider .owl-dots {
+display:none !important;
+}
+}
+

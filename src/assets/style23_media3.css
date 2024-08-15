@@ -1,0 +1,10 @@
+/*https://c0.wp.com/p/jetpack/10.1.1/css/jetpack.css*/
+
+@media (max-width:800px){
+#infinite-handle span:before{
+display:none}
+
+#infinite-handle span{
+display:block}
+}
+

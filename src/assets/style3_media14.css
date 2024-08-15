@@ -1,0 +1,19 @@
+/*https://c0.wp.com/c/6.0.9/wp-includes/css/dist/block-library/style.min.css*/
+
+@media (min-width:600px){
+.wp-block-post-template.is-flex-container.is-flex-container.columns-2>li,.wp-block-query-loop.is-flex-container.is-flex-container.columns-2>li{
+width:calc(50% - .625em)}
+
+.wp-block-post-template.is-flex-container.is-flex-container.columns-3>li,.wp-block-query-loop.is-flex-container.is-flex-container.columns-3>li{
+width:calc(33.33333% - .83333em)}
+
+.wp-block-post-template.is-flex-container.is-flex-container.columns-4>li,.wp-block-query-loop.is-flex-container.is-flex-container.columns-4>li{
+width:calc(25% - .9375em)}
+
+.wp-block-post-template.is-flex-container.is-flex-container.columns-5>li,.wp-block-query-loop.is-flex-container.is-flex-container.columns-5>li{
+width:calc(20% - 1em)}
+
+.wp-block-post-template.is-flex-container.is-flex-container.columns-6>li,.wp-block-query-loop.is-flex-container.is-flex-container.columns-6>li{
+width:calc(16.66667% - 1.04167em)}
+}
+

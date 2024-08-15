@@ -1,0 +1,9 @@
+/*https://emis.cl/estudio/wp-content/plugins/customer-area/skins/frontend/master/assets/css/styles.min.css?ver=8.1.2*/
+
+@media (min-width:768px){
+body.customer-area-active .cuar-css-wrapper .form-horizontal .control-label{
+text-align:right;
+margin-bottom:0;
+padding-top:10px}
+}
+

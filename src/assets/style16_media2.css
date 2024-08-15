@@ -1,0 +1,92 @@
+/*https://emis.cl/estudio/wp-content/themes/onetone/style.css?ver=3.0.6*/
+
+@media (min-width: 920px) {
+.site-nav-toggle {
+display: none;
+}
+
+.menu-dropdown-icon {
+display: none;
+}
+
+.site-nav {
+display: block;
+margin: 0;
+width: auto;
+position: static;
+}
+
+.site-nav > ul {
+background-color: transparent;
+float: left;
+}
+
+.site-nav > ul > li {
+float: left;
+position: relative;
+}
+
+.site-nav > ul > li + li {
+margin-left: 35px;
+}
+
+.site-nav > ul > li > a {
+display: block;
+line-height: 70px;
+padding: 0;
+background-color: transparent;
+border-bottom: 0 solid transparent;
+border-top: 0 solid transparent;
+color: #fff;
+}
+
+.overlay .main-header .site-nav > ul > li > a {
+color: #fff;
+}
+
+.site-nav > ul > li:hover > a {
+border-color: #37cadd;
+}
+
+.site-nav > ul > li > a:hover {
+background-color: transparent;
+color: #37cadd;
+}
+
+.site-nav li > ul {
+display: none;
+position: absolute;
+z-index: 9;
+left: 0;
+top: 100%;
+background-color: #000;
+width: 240px;
+}
+
+.site-nav li li > ul {
+left: 100%;
+top: 0;
+}
+
+.site-nav li:hover > ul {
+display: block;
+}
+
+.site-nav li li a:before {
+display: none;
+}
+
+.site-nav li li li a:before {
+display: none;
+}
+
+.home-header.overlay .top-bar {
+color: #fff;
+background-color: transparent;
+}
+
+.home-header.overlay .top-bar-info,.home-header.overlay .top-bar ul li a {
+color: #fff;
+}
+}
+

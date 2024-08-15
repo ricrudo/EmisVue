@@ -1,0 +1,10 @@
+/*https://emis.cl/estudio/wp-content/plugins/customer-area/skins/frontend/master/assets/css/styles.min.css?ver=8.1.2*/
+
+@media only screen and (max-width:640px){
+body.customer-area-active .cuar-css-wrapper .acf-modal{
+top:0;
+left:0;
+right:0;
+bottom:0}
+}
+

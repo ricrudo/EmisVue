@@ -1,0 +1,8 @@
+/*https://c0.wp.com/p/jetpack/10.1.1/css/jetpack.css*/
+
+@media screen and (-webkit-min-device-pixel-ratio:0){
+.sd-content ul li a.sd-button:before{
+position:relative;
+top:2px}
+}
+

@@ -1,0 +1,28 @@
+/*https://emis.cl/estudio/wp-content/plugins/fancybox-for-wordpress/assets/css/fancybox.css?ver=1.3.4*/
+
+@media all and (max-height: 576px) {
+    .fancybox-caption {
+        padding: 12px;
+    }
+
+    .fancybox-slide {
+        padding-left: 6px;
+        padding-right: 6px;
+    }
+
+    .fancybox-slide--image {
+        padding: 6px 0;
+    }
+
+    .fancybox-slide--image .fancybox-close-small {
+        background: #4e4e4e;
+        color: #f2f4f6;
+        height: 36px;
+        opacity: 1;
+        padding: 6px;
+        right: 0;
+        top: 0;
+        width: 36px;
+    }
+}
+

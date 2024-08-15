@@ -1,0 +1,16 @@
+/*https://emis.cl/estudio/wp-content/plugins/fancybox-for-wordpress/assets/css/fancybox.css?ver=1.3.4*/
+
+@media all and (max-width: 576px) {
+    .fancybox-thumbs {
+        width: 110px;
+    }
+
+    .fancybox-show-thumbs .fancybox-inner {
+        right: 110px;
+    }
+
+    .fancybox-thumbs__list a {
+        max-width: calc(100% - 10px);
+    }
+}
+

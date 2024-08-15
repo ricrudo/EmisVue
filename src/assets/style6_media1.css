@@ -1,0 +1,9 @@
+/*https://emis.cl/estudio/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.4.2*/
+
+@media (prefers-reduced-motion: reduce) {
+.wpcf7 .ajax-loader::before {
+animation-name: blink;
+animation-duration: 2000ms;
+}
+}
+

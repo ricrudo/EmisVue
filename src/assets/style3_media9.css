@@ -1,0 +1,23 @@
+/*https://c0.wp.com/c/6.0.9/wp-includes/css/dist/block-library/style.min.css*/
+
+@media (min-width:782px){
+.wp-block-navigation .has-child :where(.wp-block-navigation__submenu-container) .wp-block-navigation__submenu-container{
+left:100%;
+top:-1px}
+
+.wp-block-navigation .has-child :where(.wp-block-navigation__submenu-container) .wp-block-navigation__submenu-container:before{
+content:"";
+position:absolute;
+right:100%;
+height:100%;
+display:block;
+width:.5em;
+background:transparent}
+
+.wp-block-navigation .has-child :where(.wp-block-navigation__submenu-container) .wp-block-navigation__submenu-icon{
+margin-right:.25em}
+
+.wp-block-navigation .has-child :where(.wp-block-navigation__submenu-container) .wp-block-navigation__submenu-icon svg{
+transform:rotate(-90deg)}
+}
+

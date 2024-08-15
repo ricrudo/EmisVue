@@ -1,0 +1,15 @@
+/*https://emis.cl/estudio/wp-content/themes/onetone/plugins/bootstrap/css/bootstrap.min.css?ver=3.3.4*/
+
+@media screen and (min-width:768px){
+.jumbotron{
+padding-top:48px;
+padding-bottom:48px}
+
+.container .jumbotron,.container-fluid .jumbotron{
+padding-right:60px;
+padding-left:60px}
+
+.jumbotron .h1,.jumbotron h1{
+font-size:63px}
+}
+

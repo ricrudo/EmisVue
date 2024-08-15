@@ -1,0 +1,21 @@
+/*https://emis.cl/estudio/wp-content/themes/onetone/css/shortcode.css?ver=3.0.6*/
+
+@media screen and (min-width: 640px) {
+.divider-inner-title {
+width: 50px;
+white-space: nowrap;
+}
+
+.divider-title-left .divider-inner-title {
+padding-right: 10px;
+}
+
+.divider-title-center .divider-inner-title {
+padding: 0 10px;
+}
+
+.divider-title-right .divider-inner-title {
+padding-left: 10px;
+}
+}
+

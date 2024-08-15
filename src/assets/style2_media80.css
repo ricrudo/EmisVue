@@ -1,0 +1,10 @@
+/*https://emis.cl/estudio/wp-content/plugins/customer-area/skins/frontend/master/assets/css/styles.min.css?ver=8.1.2*/
+
+@media screen and (max-width:640px){
+body.customer-area-active .cuar-css-wrapper #acf-upgrade-notice .col-actions,body.customer-area-active .cuar-css-wrapper #acf-upgrade-notice .col-content{
+float:none;
+padding-left:90px;
+width:auto;
+text-align:left}
+}
+

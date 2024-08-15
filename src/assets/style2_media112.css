@@ -1,0 +1,43 @@
+/*https://emis.cl/estudio/wp-content/plugins/customer-area/skins/frontend/master/assets/css/styles.min.css?ver=8.1.2*/
+
+@media (min-width:768px){
+body.customer-area-active .cuar-css-wrapper .cuar-menu-container .nav-container{
+padding:0}
+
+body.customer-area-active .cuar-css-wrapper .cuar-menu-container .nav-container>ul{
+white-space:nowrap;
+width:100%}
+
+body.customer-area-active .cuar-css-wrapper .cuar-menu-container .nav-container>ul>li{
+display:inline-block;
+float:none!important}
+
+body.customer-area-active .cuar-css-wrapper .cuar-menu-container .nav-container>ul>li>a{
+word-wrap:normal;
+white-space:nowrap;
+width:auto}
+
+body.customer-area-active .cuar-css-wrapper .cuar-menu-container .nav-container>ul .just-hide{
+opacity:0;
+visibility:hidden}
+
+body.customer-area-active .cuar-css-wrapper .cuar-menu-container .nav-container>ul .menu-plus{
+position:absolute;
+top:0;
+right:0}
+
+body.customer-area-active .cuar-css-wrapper .cuar-menu-container .nav-container>ul .menu-plus #cuar-menu-plus-clone li.dropdown-submenu>ul.dropdown-menu{
+display:none;
+float:right;
+position:relative;
+top:auto;
+margin-top:-30px}
+
+body.customer-area-active .cuar-css-wrapper .cuar-menu-container .nav-container>ul .menu-plus #cuar-menu-plus-clone li.dropdown-submenu:hover>ul.dropdown-menu{
+display:block;
+position:absolute;
+left:auto;
+right:100%;
+border-top-right-radius:0}
+}
+

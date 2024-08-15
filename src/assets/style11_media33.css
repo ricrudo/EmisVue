@@ -1,0 +1,10 @@
+/*https://emis.cl/estudio/wp-content/themes/onetone/plugins/bootstrap/css/bootstrap.min.css?ver=3.3.4*/
+
+@media (max-width:767px){
+.navbar-form .form-group{
+margin-bottom:5px}
+
+.navbar-form .form-group:last-child{
+margin-bottom:0}
+}
+

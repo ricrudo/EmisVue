@@ -1,0 +1,44 @@
+/*https://emis.cl/estudio/wp-content/plugins/customer-area/skins/frontend/master/assets/css/styles.min.css?ver=8.1.2*/
+
+@media (min-width:768px){
+body.customer-area-active .cuar-css-wrapper .form-inline .form-group{
+display:inline-block;
+margin-bottom:0;
+vertical-align:middle}
+
+body.customer-area-active .cuar-css-wrapper .form-inline .form-control{
+display:inline-block;
+width:auto;
+vertical-align:middle}
+
+body.customer-area-active .cuar-css-wrapper .form-inline .input-group{
+display:inline-table;
+vertical-align:middle}
+
+body.customer-area-active .cuar-css-wrapper .form-inline .input-group .form-control,body.customer-area-active .cuar-css-wrapper .form-inline .input-group .input-group-addon,body.customer-area-active .cuar-css-wrapper .form-inline .input-group .input-group-btn{
+width:auto}
+
+body.customer-area-active .cuar-css-wrapper .form-inline .input-group>.form-control{
+width:100%}
+
+body.customer-area-active .cuar-css-wrapper .form-inline .control-label{
+margin-bottom:0;
+vertical-align:middle}
+
+body.customer-area-active .cuar-css-wrapper .form-inline .checkbox,body.customer-area-active .cuar-css-wrapper .form-inline .radio{
+display:inline-block;
+margin-top:0;
+margin-bottom:0;
+vertical-align:middle}
+
+body.customer-area-active .cuar-css-wrapper .form-inline .checkbox label,body.customer-area-active .cuar-css-wrapper .form-inline .radio label{
+padding-left:0}
+
+body.customer-area-active .cuar-css-wrapper .form-inline .checkbox input[type=checkbox],body.customer-area-active .cuar-css-wrapper .form-inline .radio input[type=radio]{
+position:relative;
+margin-left:0}
+
+body.customer-area-active .cuar-css-wrapper .form-inline .has-feedback .form-control-feedback{
+top:0}
+}
+

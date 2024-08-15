@@ -1,0 +1,17 @@
+/*https://emis.cl/estudio/wp-content/plugins/customer-area/skins/frontend/master/assets/css/styles.min.css?ver=8.1.2*/
+
+@media (min-width:768px){
+body.customer-area-active .cuar-css-wrapper .cuar-invoice-billing-address .cuar-invoice-billing-address-width-logo-block{
+display:table-row}
+
+body.customer-area-active .cuar-css-wrapper .cuar-invoice-billing-address .cuar-invoice-billing-address-width-logo-block .cuar-address-logo-container{
+min-height:100%;
+display:table-cell;
+vertical-align:middle;
+float:none}
+
+body.customer-area-active .cuar-css-wrapper .cuar-invoice-billing-address .cuar-invoice-billing-address-width-logo-block .cuar-address-container{
+display:table-cell;
+float:none}
+}
+

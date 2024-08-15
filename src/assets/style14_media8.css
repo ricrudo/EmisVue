@@ -1,0 +1,38 @@
+/*https://emis.cl/estudio/wp-content/themes/onetone/css/shortcode.css?ver=3.0.6*/
+
+@media (min-width: 992px) {
+.magee-timeline:before {
+content: "";
+position: absolute;
+display: block;
+width: 10px;
+height: 10px;
+border-radius: 50%;
+background-color: #fdd200;
+top: 28px;
+left: 0;
+}
+
+.magee-timeline > ul > li:before {
+content: "";
+position: absolute;
+display: block;
+width: 100%;
+height: 1px;
+background-color: #fdd200;
+top: 32px;
+left: 0;
+}
+
+.magee-timeline > ul > li:last-child:before {
+/* Firefox 3.6+ */
+ background-image: -moz-linear-gradient(left, #fdd200 0%, #fdd200 70%, #fff 100%);
+ /* Safari 4-5, Chrome 1-9 */
+ background-image: -webkit-gradient(linear, left top, right top, from(#fdd200), color-stop(0.7, #fdd200), to(#fff));
+ /* Safari 5.1+, Chrome 10+ */
+ background-image: -webkit-linear-gradient(left, #fdd200 0%, #fdd200 70%, #fff 100%);
+ /* Opera 11.10+ */
+ background-image: -o-linear-gradient(left, #fdd200 0%, #fdd200 70%, #fff 100%);
+}
+}
+

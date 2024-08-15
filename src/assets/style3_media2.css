@@ -1,0 +1,7 @@
+/*https://c0.wp.com/c/6.0.9/wp-includes/css/dist/block-library/style.min.css*/
+
+@media (max-width:781px){
+.wp-block-columns:not(.is-not-stacked-on-mobile)>.wp-block-column{
+flex-basis:100%!important}
+}
+

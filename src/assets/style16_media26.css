@@ -1,0 +1,19 @@
+/*https://emis.cl/estudio/wp-content/themes/onetone/style.css?ver=3.0.6*/
+
+@media only screen and (max-width: 767px) {
+.header-wrap.overlay{
+   position: static;
+}
+
+.overlay .main-header .site-nav-toggle {
+color: #ccc;
+}
+
+header.overlay .main-header .site-tagline, header.overlay .main-header .site-name {
+color: #595959;
+ }
+
+.site-nav {
+z-index:999}
+}
+

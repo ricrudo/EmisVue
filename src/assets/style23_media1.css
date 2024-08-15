@@ -1,0 +1,66 @@
+/*https://c0.wp.com/p/jetpack/10.1.1/css/jetpack.css*/
+
+@media only screen and (max-width:760px){
+.jp-carousel-overlay .swiper-container .swiper-button-next,.jp-carousel-overlay .swiper-container .swiper-button-prev{
+display:none!important}
+
+.jp-carousel-buttons{
+display:none!important}
+
+.jp-carousel-image-meta{
+float:none!important;
+width:100%!important;
+box-sizing:border-box;
+margin-left:0}
+
+.jp-carousel-close-hint{
+font-size:26px!important;
+position:fixed!important;
+top:10px;
+right:10px}
+
+.admin-bar .jp-carousel-close-hint{
+top:40px}
+
+.jp-carousel-slide img{
+opacity:1}
+
+.jp-carousel-wrap{
+background-color:var(--jp-carousel-bg-color)}
+
+.jp-carousel-fadeaway{
+display:none}
+
+.jp-carousel-info>.jp-carousel-photo-info{
+display:none}
+
+.jp-carousel-comments-wrapper>.jp-carousel-photo-info{
+display:block}
+
+.jp-carousel-caption{
+overflow:visible!important}
+
+.jp-carousel-info-footer .jp-carousel-photo-title-container{
+display:none}
+
+.jp-carousel-photo-icons-container{
+margin:0 10px 0 0;
+white-space:nowrap}
+
+.jp-carousel-icon-btn{
+padding-left:20px}
+
+.jp-carousel-pagination{
+padding-left:5px}
+
+.jp-carousel-pagination-container{
+margin-left:25px}
+
+.jp-carousel-comment .avatar{
+min-width:48px}
+
+#jp-carousel-comment-form-commenting-as fieldset,#jp-carousel-comment-form-commenting-as input{
+width:100%;
+float:none}
+}
+

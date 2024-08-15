@@ -1,0 +1,28 @@
+/*https://emis.cl/estudio/wp-content/themes/onetone/style.css?ver=3.0.6*/
+
+@media screen and (min-width: 920px) {
+.logo-center {
+text-align: center;
+}
+
+.logo-center .logo-box {
+float: none;
+text-align: center;
+margin: 10px 0;
+}
+
+.logo-center .site-logo {
+float: none;
+margin: 0;
+}
+
+.logo-center .site-nav ul {
+float: none;
+}
+
+.logo-center .site-nav > ul > li {
+float: none;
+display: inline-block;
+}
+}
+

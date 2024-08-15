@@ -1,0 +1,8 @@
+/*https://emis.cl/estudio/wp-content/plugins/customer-area/skins/frontend/master/assets/css/styles.min.css?ver=8.1.2*/
+
+@media only screen and (-o-min-device-pixel-ratio:2),only screen and (-o-min-device-pixel-ratio:2/1),only screen and (-webkit-min-device-pixel-ratio:2),only screen and (min-device-pixel-ratio:2),only screen and (min-resolution:2dppx),only screen and (min-resolution:192dpi){
+body.customer-area-active .cuar-css-wrapper .acf-loading,body.customer-area-active .cuar-css-wrapper .acf-spinner{
+background-image:url(../../images/spinner@2x.gif);
+background-size:20px 20px}
+}
+

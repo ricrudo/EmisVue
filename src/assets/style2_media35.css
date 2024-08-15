@@ -1,0 +1,19 @@
+/*https://emis.cl/estudio/wp-content/plugins/customer-area/skins/frontend/master/assets/css/styles.min.css?ver=8.1.2*/
+
+@media (max-width:767px){
+body.customer-area-active .cuar-css-wrapper .navbar-default .navbar-nav .open .dropdown-menu>li>a{
+color:rgba(0,0,0,.87)}
+
+body.customer-area-active .cuar-css-wrapper .navbar-default .navbar-nav .open .dropdown-menu>li>a:focus,body.customer-area-active .cuar-css-wrapper .navbar-default .navbar-nav .open .dropdown-menu>li>a:hover{
+color:rgba(0,0,0,.87);
+background-color:#fff}
+
+body.customer-area-active .cuar-css-wrapper .navbar-default .navbar-nav .open .dropdown-menu>.active>a,body.customer-area-active .cuar-css-wrapper .navbar-default .navbar-nav .open .dropdown-menu>.active>a:focus,body.customer-area-active .cuar-css-wrapper .navbar-default .navbar-nav .open .dropdown-menu>.active>a:hover{
+color:#fff;
+background-color:#515151}
+
+body.customer-area-active .cuar-css-wrapper .navbar-default .navbar-nav .open .dropdown-menu>.disabled>a,body.customer-area-active .cuar-css-wrapper .navbar-default .navbar-nav .open .dropdown-menu>.disabled>a:focus,body.customer-area-active .cuar-css-wrapper .navbar-default .navbar-nav .open .dropdown-menu>.disabled>a:hover{
+color:rgba(35,32,30,.408);
+background-color:transparent}
+}
+

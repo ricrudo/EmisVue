@@ -1,0 +1,7 @@
+/*https://c0.wp.com/p/jetpack/10.1.1/css/jetpack.css*/
+
+@media screen and (-webkit-min-device-pixel-ratio:0){
+.sd-social-official ul li a.sd-button:before{
+top:0}
+}
+

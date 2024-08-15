@@ -1,0 +1,8 @@
+/*https://emis.cl/estudio/wp-content/plugins/customer-area/skins/frontend/master/assets/css/styles.min.css?ver=8.1.2*/
+
+@media (min-width:1400px){
+body.customer-area-active .cuar-css-wrapper .collection .collection-content.list .gap,body.customer-area-active .cuar-css-wrapper .collection .collection-content.list .mix{
+float:left;
+width:50%}
+}
+

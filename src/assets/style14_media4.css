@@ -1,0 +1,76 @@
+/*https://emis.cl/estudio/wp-content/themes/onetone/css/shortcode.css?ver=3.0.6*/
+
+@media screen and (min-width:768px) {
+.magee-tab-box.tab-normal ul > li + li > a,.magee-tab-box.tab-normal ul > li + li > a:hover,.magee-tab-box.tab-normal .nav-tabs.nav-justified>.active>a,.magee-tab-box.tab-normal .nav-tabs.nav-justified>.active>a:focus,.magee-tab-box.tab-normal .nav-tabs.nav-justified>.active>a:hover {
+border-left: 0;
+}
+
+.magee-tab-box.tab-normal .nav-tabs.nav-justified > li:first-child > a,.magee-tab-box.tab-normal .nav-tabs.nav-justified > li:first-child > a:focus,.magee-tab-box.tab-normal .nav-tabs.nav-justified > li:first-child > a:hover {
+border-left: 1px solid #ddd;
+}
+
+.magee-tab-box.tab-normal ul > li.active > a {
+background-color: #fff;
+border-bottom-color: #fff;
+}
+
+.magee-tab-box.tab-vertical ul {
+width: 30%;
+}
+
+.magee-tab-box.tab-normal.tab-vertical ul.nav-stacked li {
+float: none;
+}
+
+.magee-tab-box.tab-normal.tab-vertical ul.nav-stacked>li+li {
+margin-top: 0;
+margin-left: 0;
+}
+
+.magee-tab-box.tab-vertical .tab-content {
+width: 70%;
+}
+
+.magee-tab-box.tab-normal.tab-vertical ul > li + li {
+margin-top: 0;
+}
+
+.magee-tab-box.tab-normal.tab-vertical ul > li > a {
+border: 1px solid #ddd;
+margin: 0;
+}
+
+.magee-tab-box.tab-normal.tab-vertical.tab-vertical-left ul > li > a {
+margin-right: -1px;
+}
+
+.magee-tab-box.tab-normal.tab-vertical.tab-vertical-right ul > li > a {
+margin-left: -1px;
+}
+
+.magee-tab-box.tab-normal.tab-vertical.tab-vertical-left ul > li + li > a {
+border-left: 1px solid #ddd;
+}
+
+.magee-tab-box.tab-normal.tab-vertical.tab-vertical-right ul > li + li > a {
+border-right: 1px solid #ddd;
+}
+
+.magee-tab-box.tab-normal.tab-vertical ul > li.active > a {
+border-bottom-color: #ddd;
+}
+
+.magee-tab-box.tab-normal.tab-vertical.tab-vertical-left ul > li.active > a {
+border-right-color: #fff;
+}
+
+.magee-tab-box.tab-normal.tab-vertical.tab-vertical-right ul > li.active > a {
+border-left-color: #fff;
+}
+
+.magee-tab-box.tab-normal.tab-vertical .tab-pane {
+padding: 20px;
+border: 1px solid #ddd;
+}
+}
+

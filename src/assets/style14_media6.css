@@ -1,0 +1,9 @@
+/*https://emis.cl/estudio/wp-content/themes/onetone/css/shortcode.css?ver=3.0.6*/
+
+@media screen and (min-width:768px) {
+.promo-info, .promo-action {
+display: table-cell;
+vertical-align: middle;
+}
+}
+

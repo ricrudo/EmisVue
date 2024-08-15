@@ -1,0 +1,14 @@
+/*https://emis.cl/estudio/wp-content/themes/onetone/css/onetone-ms.css?ver=3.0.6*/
+
+.magee-accordion h4.panel-title {
+    color: #a0a0a0;
+}
+
+.person-vcard .person-title:after {
+    display: none;
+}
+
+.counter:after {
+    display: none;
+}
+

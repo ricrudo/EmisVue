@@ -1,0 +1,64 @@
+/*https://emis.cl/estudio/wp-content/plugins/customer-area/skins/frontend/master/assets/css/styles.min.css?ver=8.1.2*/
+
+@media print{
+body.customer-area-active .cuar-css-wrapper *{
+text-shadow:none!important;
+color:#000!important;
+background:transparent!important;
+-webkit-box-shadow:none!important;
+box-shadow:none!important}
+
+body.customer-area-active .cuar-css-wrapper a,body.customer-area-active .cuar-css-wrapper a:visited{
+text-decoration:underline}
+
+body.customer-area-active .cuar-css-wrapper a[href]:after{
+content:" (" attr(href) ")"}
+
+body.customer-area-active .cuar-css-wrapper abbr[title]:after{
+content:" (" attr(title) ")"}
+
+body.customer-area-active .cuar-css-wrapper a[href^="#"]:after,body.customer-area-active .cuar-css-wrapper a[href^="javascript:"]:after{
+content:""}
+
+body.customer-area-active .cuar-css-wrapper blockquote,body.customer-area-active .cuar-css-wrapper pre{
+border:1px solid #999;
+page-break-inside:avoid}
+
+body.customer-area-active .cuar-css-wrapper thead{
+display:table-header-group}
+
+body.customer-area-active .cuar-css-wrapper img,body.customer-area-active .cuar-css-wrapper tr{
+page-break-inside:avoid}
+
+body.customer-area-active .cuar-css-wrapper img{
+max-width:100%!important}
+
+body.customer-area-active .cuar-css-wrapper h2,body.customer-area-active .cuar-css-wrapper h3,body.customer-area-active .cuar-css-wrapper p{
+orphans:3;
+widows:3}
+
+body.customer-area-active .cuar-css-wrapper h2,body.customer-area-active .cuar-css-wrapper h3{
+page-break-after:avoid}
+
+body.customer-area-active .cuar-css-wrapper select{
+background:#fff!important}
+
+body.customer-area-active .cuar-css-wrapper .navbar{
+display:none}
+
+body.customer-area-active .cuar-css-wrapper .table td,body.customer-area-active .cuar-css-wrapper .table th{
+background-color:#fff!important}
+
+body.customer-area-active .cuar-css-wrapper .btn>.caret,body.customer-area-active .cuar-css-wrapper .dropup>.btn>.caret{
+border-top-color:#000!important}
+
+body.customer-area-active .cuar-css-wrapper .label{
+border:1px solid #000}
+
+body.customer-area-active .cuar-css-wrapper .table{
+border-collapse:collapse!important}
+
+body.customer-area-active .cuar-css-wrapper .table-bordered td,body.customer-area-active .cuar-css-wrapper .table-bordered th{
+border:1px solid #ddd!important}
+}
+

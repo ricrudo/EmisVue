@@ -1,0 +1,17 @@
+/*https://emis.cl/estudio/wp-content/plugins/customer-area/skins/frontend/master/assets/css/styles.min.css?ver=8.1.2*/
+
+@media (max-width:900px){
+body.customer-area-active .cuar-css-wrapper .media-modal .compat-attachment-fields>tbody>.acf-field>.acf-label,body.customer-area-active .cuar-css-wrapper .media-modal .setting span{
+width:98%;
+float:none;
+text-align:left;
+min-height:0;
+padding:0}
+
+body.customer-area-active .cuar-css-wrapper .media-modal .compat-attachment-fields>tbody>.acf-field>.acf-input,body.customer-area-active .cuar-css-wrapper .media-modal .setting input,body.customer-area-active .cuar-css-wrapper .media-modal .setting textarea{
+float:none;
+height:auto;
+max-width:none;
+width:98%}
+}
+

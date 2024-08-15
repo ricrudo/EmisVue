@@ -1,0 +1,16 @@
+/*https://emis.cl/estudio/wp-content/themes/onetone/plugins/bootstrap/css/bootstrap.min.css?ver=3.3.4*/
+
+@media print{
+.visible-print{
+display:block!important}
+
+table.visible-print{
+display:table!important}
+
+tr.visible-print{
+display:table-row!important}
+
+td.visible-print,th.visible-print{
+display:table-cell!important}
+}
+

@@ -1,0 +1,16 @@
+/*https://emis.cl/estudio/wp-content/plugins/customer-area/skins/frontend/master/assets/css/styles.min.css?ver=8.1.2*/
+
+@media print{
+body.customer-area-active .cuar-css-wrapper .visible-print{
+display:block!important}
+
+tablebody.customer-area-active .cuar-css-wrapper .visible-print{
+display:table}
+
+trbody.customer-area-active .cuar-css-wrapper .visible-print{
+display:table-row!important}
+
+tdbody.customer-area-active .cuar-css-wrapper .visible-print,thbody.customer-area-active .cuar-css-wrapper .visible-print{
+display:table-cell!important}
+}
+

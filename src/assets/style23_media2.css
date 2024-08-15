@@ -1,0 +1,10 @@
+/*https://c0.wp.com/p/jetpack/10.1.1/css/jetpack.css*/
+
+@media only screen and (min-width:600px){
+.contact-form input[type=email],.contact-form input[type=tel],.contact-form input[type=text],.contact-form input[type=url]{
+width:50%}
+
+.wp-block-jetpack-contact-form input[type=email],.wp-block-jetpack-contact-form input[type=tel],.wp-block-jetpack-contact-form input[type=text],.wp-block-jetpack-contact-form input[type=url]{
+width:100%}
+}
+

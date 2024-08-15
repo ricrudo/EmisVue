@@ -1,0 +1,16 @@
+/*https://emis.cl/estudio/wp-content/themes/onetone/plugins/bootstrap/css/bootstrap.min.css?ver=3.3.4*/
+
+@media (min-width:768px) and (max-width:991px){
+.visible-sm{
+display:block!important}
+
+table.visible-sm{
+display:table!important}
+
+tr.visible-sm{
+display:table-row!important}
+
+td.visible-sm,th.visible-sm{
+display:table-cell!important}
+}
+

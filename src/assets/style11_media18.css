@@ -1,0 +1,11 @@
+/*https://emis.cl/estudio/wp-content/themes/onetone/plugins/bootstrap/css/bootstrap.min.css?ver=3.3.4*/
+
+@media (min-width:768px){
+.nav-tabs.nav-justified>li>a{
+border-bottom:1px solid #ddd;
+border-radius:4px 4px 0 0}
+
+.nav-tabs.nav-justified>.active>a,.nav-tabs.nav-justified>.active>a:focus,.nav-tabs.nav-justified>.active>a:hover{
+border-bottom-color:#fff}
+}
+

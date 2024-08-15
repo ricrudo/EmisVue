@@ -1,0 +1,12 @@
+/*https://emis.cl/estudio/wp-content/plugins/customer-area/skins/frontend/master/assets/css/styles.min.css?ver=8.1.2*/
+
+@media (min-width:480px){
+body.customer-area-active .cuar-css-wrapper .navbar-right .dropdown-menu{
+left:auto;
+right:0}
+
+body.customer-area-active .cuar-css-wrapper .navbar-right .dropdown-menu-left{
+left:0;
+right:auto}
+}
+

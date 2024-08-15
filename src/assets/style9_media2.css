@@ -1,0 +1,8 @@
+/*https://emis.cl/estudio/wp-content/plugins/onetone-companion/assets/css/front.css?ver=1.1.1*/
+
+@media (min-width: 481px) and (max-width: 640px) {
+#onetone-e-owl-slider .owl-dots {
+display:none !important;
+}
+}
+

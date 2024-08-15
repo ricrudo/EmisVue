@@ -1,0 +1,13 @@
+/*https://emis.cl/estudio/wp-content/plugins/customer-area/skins/frontend/master/assets/css/styles.min.css?ver=8.1.2*/
+
+@media only screen and (max-width:850px){
+body.customer-area-active .cuar-css-wrapper .acf-meta-box-wrap.-grid{
+margin-left:0;
+margin-right:0}
+
+body.customer-area-active .cuar-css-wrapper .acf-meta-box-wrap.-grid .postbox{
+margin-left:0!important;
+margin-right:0!important;
+width:100%}
+}
+

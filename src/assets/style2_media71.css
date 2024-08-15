@@ -1,0 +1,8 @@
+/*https://emis.cl/estudio/wp-content/plugins/customer-area/skins/frontend/master/assets/css/styles.min.css?ver=8.1.2*/
+
+@media (max-width:992px){
+body.customer-area-active .cuar-css-wrapper .table-layout.table-clear-sm,body.customer-area-active .cuar-css-wrapper .table-layout.table-clear-sm>aside,body.customer-area-active .cuar-css-wrapper .table-layout.table-clear-sm>div,body.customer-area-active .cuar-css-wrapper .table-layout.table-clear-sm>section{
+display:block;
+float:none}
+}
+

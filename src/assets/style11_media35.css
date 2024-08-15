@@ -1,0 +1,9 @@
+/*https://emis.cl/estudio/wp-content/themes/onetone/plugins/bootstrap/css/bootstrap.min.css?ver=3.3.4*/
+
+@media (min-width:768px){
+.navbar-text{
+float:left;
+margin-right:15px;
+margin-left:15px}
+}
+

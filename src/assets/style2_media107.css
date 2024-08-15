@@ -1,0 +1,11 @@
+/*https://emis.cl/estudio/wp-content/plugins/customer-area/skins/frontend/master/assets/css/styles.min.css?ver=8.1.2*/
+
+@media (max-width:768px){
+body.customer-area-active .cuar-css-wrapper .cuar-address-container,body.customer-area-active .cuar-css-wrapper .cuar-address-logo-container{
+text-align:left!important}
+
+body.customer-area-active .cuar-css-wrapper .cuar-address-logo-container .cuar-address-logo{
+max-height:75px;
+max-width:65%}
+}
+

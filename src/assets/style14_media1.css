@@ -1,0 +1,76 @@
+/*https://emis.cl/estudio/wp-content/themes/onetone/css/shortcode.css?ver=3.0.6*/
+
+@media (min-width: 768px) {
+.row > [class*="col-sm"] {
+padding-bottom: 0;
+}
+
+.col-sm-1_5,.col-sm-2_5,.col-sm-3_5,.col-sm-4_5 {
+float: left;
+}
+
+.col-sm-1_5 {
+width: 20%;
+}
+
+.col-sm-2_5 {
+width: 40%;
+}
+
+.col-sm-3_5 {
+width: 60%;
+}
+
+.col-sm-4_5 {
+width: 80%;
+}
+
+.col-sm-pull-1_5 {
+right: 20%;
+}
+
+.col-sm-pull-2_5 {
+right: 40%;
+}
+
+.col-sm-pull-3_5 {
+right: 60%;
+}
+
+.col-sm-pull-4_5 {
+right: 80%;
+}
+
+.col-sm-push-1_5 {
+left: 20%;
+}
+
+.col-sm-push-2_5 {
+left: 40%;
+}
+
+.col-sm-push-3_5 {
+left: 60%;
+}
+
+.col-sm-push-4_5 {
+left: 80%;
+}
+
+.col-sm-offset-1_5 {
+margin-left: 20%;
+}
+
+.col-sm-offset-2_5 {
+margin-left: 40%;
+}
+
+.col-sm-offset-3_5 {
+margin-left: 60%;
+}
+
+.col-sm-offset-4_5 {
+margin-left: 80%;
+}
+}
+

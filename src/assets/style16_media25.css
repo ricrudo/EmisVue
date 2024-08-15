@@ -1,0 +1,18 @@
+/*https://emis.cl/estudio/wp-content/themes/onetone/style.css?ver=3.0.6*/
+
+@media screen and (max-width: 767px) {
+    .footer-info-area .site-info,    .footer-info-area .site-social {
+        float: none!important;
+        text-align: center;
+    }
+
+    .footer-info-area .site-social ul {
+        margin: 0 auto;
+    }
+
+    .site-social li a {
+    margin-left: .5em;
+    margin-right: .5em;
+    }
+}
+

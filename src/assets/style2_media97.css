@@ -1,0 +1,22 @@
+/*https://emis.cl/estudio/wp-content/plugins/customer-area/skins/frontend/master/assets/css/styles.min.css?ver=8.1.2*/
+
+@media (max-width:900px){
+body.customer-area-active .cuar-css-wrapper .media-modal.acf-expanded .attachments,body.customer-area-active .cuar-css-wrapper .media-modal.acf-expanded .attachments-browser .media-toolbar{
+display:none}
+
+body.customer-area-active .cuar-css-wrapper .media-modal.acf-expanded .media-sidebar{
+width:auto;
+max-width:none!important;
+bottom:0!important}
+
+body.customer-area-active .cuar-css-wrapper .media-modal.acf-expanded .media-sidebar .attachment-info .thumbnail{
+min-width:0;
+max-width:none;
+width:30%}
+
+body.customer-area-active .cuar-css-wrapper .media-modal.acf-expanded .media-sidebar .attachment-info .details{
+min-width:0;
+max-width:none;
+width:67%}
+}
+

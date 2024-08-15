@@ -1,0 +1,8 @@
+/*https://emis.cl/estudio/wp-content/themes/onetone/plugins/bootstrap/css/bootstrap.min.css?ver=3.3.4*/
+
+@media (min-width:768px){
+.form-horizontal .form-group-lg .control-label{
+padding-top:11px;
+font-size:18px}
+}
+

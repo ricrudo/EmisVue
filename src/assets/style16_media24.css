@@ -1,0 +1,12 @@
+/*https://emis.cl/estudio/wp-content/themes/onetone/style.css?ver=3.0.6*/
+
+@media screen and (max-width: 600px) {
+    body.admin-bar {
+        margin-top: -46px;
+    }
+
+    body.admin-bar .wrapper {
+        padding-top: 46px;
+    }
+}
+

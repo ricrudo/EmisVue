@@ -1,0 +1,44 @@
+/*https://emis.cl/estudio/wp-content/plugins/instagram-feed/css/sbi-styles.min.css?ver=6.2.8*/
+
+@media all and (max-width: 480px){
+#sb_instagram.sbi_col_3.sbi_mob_col_auto #sbi_images .sbi_item, #sb_instagram.sbi_col_4.sbi_mob_col_auto #sbi_images .sbi_item, #sb_instagram.sbi_col_5.sbi_mob_col_auto #sbi_images .sbi_item, #sb_instagram.sbi_col_6.sbi_mob_col_auto #sbi_images .sbi_item, #sb_instagram.sbi_col_7.sbi_mob_col_auto #sbi_images .sbi_item, #sb_instagram.sbi_col_8.sbi_mob_col_auto #sbi_images .sbi_item, #sb_instagram.sbi_col_9.sbi_mob_col_auto #sbi_images .sbi_item, #sb_instagram.sbi_col_10.sbi_mob_col_auto #sbi_images .sbi_item, #sb_instagram.sbi_mob_col_1 #sbi_images .sbi_item{
+width: 100%;
+}
+
+#sb_instagram.sbi_mob_col_2 #sbi_images .sbi_item{
+width: 50%;
+}
+
+#sb_instagram.sbi_mob_col_3 #sbi_images .sbi_item{
+width: 33.33%;
+}
+
+#sb_instagram.sbi_mob_col_4 #sbi_images .sbi_item{
+width: 25%;
+}
+
+#sb_instagram.sbi_mob_col_5 #sbi_images .sbi_item{
+width: 20%;
+}
+
+#sb_instagram.sbi_mob_col_6 #sbi_images .sbi_item{
+width: 16.66%;
+}
+
+#sb_instagram.sbi_mob_col_7 #sbi_images .sbi_item{
+width: 14.28%;
+}
+
+#sb_instagram.sbi_mob_col_8 #sbi_images .sbi_item{
+width: 12.5%;
+}
+
+#sb_instagram.sbi_mob_col_9 #sbi_images .sbi_item{
+width: 11.11%;
+}
+
+#sb_instagram.sbi_mob_col_10 #sbi_images .sbi_item{
+width: 10%;
+}
+}
+

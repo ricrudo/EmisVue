@@ -1,0 +1,7 @@
+/*https://c0.wp.com/p/jetpack/10.1.1/css/jetpack.css*/
+
+@media only screen and (-webkit-min-device-pixel-ratio:1.5){
+body div div.slideshow-controls a,body div div.slideshow-controls a:hover{
+background-image:url(../modules/shortcodes/img/slideshow-controls-2x.png)!important}
+}
+

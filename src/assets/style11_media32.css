@@ -1,0 +1,47 @@
+/*https://emis.cl/estudio/wp-content/themes/onetone/plugins/bootstrap/css/bootstrap.min.css?ver=3.3.4*/
+
+@media (min-width:768px){
+.navbar-form .form-group{
+display:inline-block;
+margin-bottom:0;
+vertical-align:middle}
+
+.navbar-form .form-control{
+display:inline-block;
+width:auto;
+vertical-align:middle}
+
+.navbar-form .form-control-static{
+display:inline-block}
+
+.navbar-form .input-group{
+display:inline-table;
+vertical-align:middle}
+
+.navbar-form .input-group .form-control,.navbar-form .input-group .input-group-addon,.navbar-form .input-group .input-group-btn{
+width:auto}
+
+.navbar-form .input-group>.form-control{
+width:100%}
+
+.navbar-form .control-label{
+margin-bottom:0;
+vertical-align:middle}
+
+.navbar-form .checkbox,.navbar-form .radio{
+display:inline-block;
+margin-top:0;
+margin-bottom:0;
+vertical-align:middle}
+
+.navbar-form .checkbox label,.navbar-form .radio label{
+padding-left:0}
+
+.navbar-form .checkbox input[type=checkbox],.navbar-form .radio input[type=radio]{
+position:relative;
+margin-left:0}
+
+.navbar-form .has-feedback .form-control-feedback{
+top:0}
+}
+

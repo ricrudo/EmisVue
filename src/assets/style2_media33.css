@@ -1,0 +1,17 @@
+/*https://emis.cl/estudio/wp-content/plugins/customer-area/skins/frontend/master/assets/css/styles.min.css?ver=8.1.2*/
+
+@media (min-width:768px){
+body.customer-area-active .cuar-css-wrapper .navbar-form{
+width:auto;
+border:0;
+margin-left:0;
+margin-right:0;
+padding-top:0;
+padding-bottom:0;
+-webkit-box-shadow:none;
+box-shadow:none}
+
+body.customer-area-active .cuar-css-wrapper .navbar-form.navbar-right:last-child{
+margin-right:-11px}
+}
+

@@ -1,0 +1,54 @@
+/*https://emis.cl/estudio/wp-content/themes/onetone/css/shortcode.css?ver=3.0.6*/
+
+@media screen and (min-width: 768px) {
+.blog-timeline-icon {
+text-align: center;
+}
+
+.blog-timeline-line {
+left: 50%;
+}
+
+.blog-list-wrap.blog-timeline .entry-box-wrap {
+width: 50%;
+}
+
+.blog-list-wrap.blog-timeline .entry-box-wrap.timeline-left {
+float: left;
+padding-right: 10%;
+}
+
+.blog-list-wrap.blog-timeline .entry-box-wrap.timeline-left:after {
+right: 0;
+margin-right: -5px;
+left: auto;
+}
+
+.blog-list-wrap.blog-timeline .entry-box-wrap.timeline-right {
+float: right;
+padding-left: 10%;
+}
+
+.blog-list-wrap.blog-timeline .entry-box-wrap.timeline-right:after {
+left: 0;
+margin-left: -5px;
+}
+
+.blog-list-wrap.blog-timeline .timeline-left .entry-box:before {
+border-left-color: #ccc;
+border-right-color: transparent;
+left: auto;
+right: 0;
+margin-right: -21px;
+margin-left: 0;
+}
+
+.blog-list-wrap.blog-timeline .timeline-left .entry-box:after {
+border-left-color: #fff;
+border-right-color: transparent;
+left: auto;
+right: 0;
+margin-right: -18px;
+}
+}
+

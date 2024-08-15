@@ -1,0 +1,31 @@
+/*https://emis.cl/estudio/wp-content/themes/onetone/style.css?ver=3.0.6*/
+
+@media screen and (min-width: 919px) {
+.site-nav.style1 > ul > li > a > span {
+padding: 10px;
+border-radius: 5px;
+}
+
+    .site-nav.style1 > ul > li.current > a > span,    .site-nav.style1 > ul > li > a:hover > span {
+        background-color: #37cadd;
+        color: #fff;
+        }
+
+    .site-nav.style2 > ul > li > a > span {
+padding: 8px;
+border: 2px solid transparent;
+border-radius: 5px;
+}
+
+    .site-nav.style2 > ul > li.current > a > span,    .site-nav.style2 > ul > li > a:hover > span {
+        padding: 8px;
+        border: 2px solid #37cadd;
+    }
+
+    .site-nav.style3 > ul > li.current > a > span,    .site-nav.style3 > ul > li > a:hover > span {
+        font-weight: bold;
+        padding: 5px 0;
+        border-bottom: 2px solid #37cadd;
+    }
+}
+

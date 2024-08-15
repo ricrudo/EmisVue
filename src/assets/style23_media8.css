@@ -1,0 +1,14 @@
+/*https://c0.wp.com/p/jetpack/10.1.1/css/jetpack.css*/
+
+@media only screen and (max-width:320px){
+#jp-relatedposts .jp-relatedposts-items .jp-relatedposts-post{
+width:100%;
+clear:both;
+margin:0 0 1em}
+
+#jp-relatedposts .jp-relatedposts-list .jp-relatedposts-post img.jp-relatedposts-post-img,#jp-relatedposts .jp-relatedposts-list h4.jp-relatedposts-post-title{
+float:none;
+max-width:100%;
+margin-right:0}
+}
+

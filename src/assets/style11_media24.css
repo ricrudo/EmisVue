@@ -1,0 +1,7 @@
+/*https://emis.cl/estudio/wp-content/themes/onetone/plugins/bootstrap/css/bootstrap.min.css?ver=3.3.4*/
+
+@media (max-device-width:480px) and (orientation:landscape){
+.navbar-fixed-bottom .navbar-collapse,.navbar-fixed-top .navbar-collapse{
+max-height:200px}
+}
+

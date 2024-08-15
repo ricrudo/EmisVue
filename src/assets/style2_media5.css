@@ -1,0 +1,17 @@
+/*https://emis.cl/estudio/wp-content/plugins/customer-area/skins/frontend/master/assets/css/styles.min.css?ver=8.1.2*/
+
+@media (min-width:480px){
+body.customer-area-active .cuar-css-wrapper .dl-horizontal dt{
+float:left;
+width:160px;
+clear:left;
+text-align:right;
+overflow:hidden;
+-o-text-overflow:ellipsis;
+text-overflow:ellipsis;
+white-space:nowrap}
+
+body.customer-area-active .cuar-css-wrapper .dl-horizontal dd{
+margin-left:180px}
+}
+

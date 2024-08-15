@@ -1,0 +1,7 @@
+/*https://c0.wp.com/c/6.0.9/wp-includes/css/dist/block-library/style.min.css*/
+
+@media (prefers-reduced-motion:reduce){
+.wp-block-cover-image.has-parallax,.wp-block-cover.has-parallax{
+background-attachment:scroll}
+}
+

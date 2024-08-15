@@ -1,0 +1,7 @@
+/*https://emis.cl/estudio/wp-content/plugins/customer-area/skins/frontend/master/assets/css/styles.min.css?ver=8.1.2*/
+
+@media (max-width:1100px){
+body.customer-area-active .cuar-css-wrapper #acf-field-group-options tr[data-name=hide_on_screen] li{
+width:50%}
+}
+

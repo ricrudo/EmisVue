@@ -1,0 +1,10 @@
+/*https://c0.wp.com/p/jetpack/10.1.1/css/jetpack.css*/
+
+@media screen and (min-width:400px){
+.widget.jetpack-simple-payments .jetpack-simple-payments-product{
+flex-direction:column}
+
+.widget.jetpack-simple-payments .jetpack-simple-payments-details{
+padding-left:0}
+}
+

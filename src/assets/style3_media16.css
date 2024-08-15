@@ -1,0 +1,8 @@
+/*https://c0.wp.com/c/6.0.9/wp-includes/css/dist/block-library/style.min.css*/
+
+@media (prefers-reduced-motion:reduce){
+.wp-block-social-link{
+transition-duration:0s;
+transition-delay:0s}
+}
+

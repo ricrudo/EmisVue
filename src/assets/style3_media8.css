@@ -1,0 +1,15 @@
+/*https://c0.wp.com/c/6.0.9/wp-includes/css/dist/block-library/style.min.css*/
+
+@media (max-width:600px){
+.wp-block-media-text.is-stacked-on-mobile{
+grid-template-columns:100%!important}
+
+.wp-block-media-text.is-stacked-on-mobile .wp-block-media-text__media{
+grid-column:1;
+grid-row:1}
+
+.wp-block-media-text.is-stacked-on-mobile .wp-block-media-text__content{
+grid-column:1;
+grid-row:2}
+}
+

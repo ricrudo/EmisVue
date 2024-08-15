@@ -1,0 +1,8 @@
+/*https://emis.cl/estudio/wp-content/themes/onetone/style.css?ver=3.0.6*/
+
+@media screen and (min-width: 768px) {
+.blog-list-wrap.blog-grid .entry-box-wrap {
+width: 50%;
+}
+}
+

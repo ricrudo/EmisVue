@@ -1,0 +1,45 @@
+/*https://emis.cl/estudio/wp-content/themes/onetone/style.css?ver=3.0.6*/
+
+@media screen and (min-width:920px) {
+.site-nav > ul > li.menu_column {
+    position: static;
+}
+
+.site-nav > ul > li.menu_column > ul {
+    width:100%!important;
+    padding: 20px 0;
+}
+
+.site-nav > ul > li.menu_column > ul > li.col-md-2,.site-nav > ul > li.menu_column > ul > li.col-md-1_5,.site-nav > ul > li.menu_column > ul > li.col-md-3,.site-nav > ul > li.menu_column > ul > li.col-md-4,.site-nav > ul > li.menu_column > ul > li.col-md-6 {
+    float:left;
+}
+
+.site-nav > ul > li.menu_column > ul > li > ul {
+    display: block;
+    position: static;
+    top: 0;
+ left: 0;
+    width: 100%;
+}
+
+.site-nav li ul li + li > a {
+border-top: 1px solid rgba(255,255,255,.2);
+}
+
+.site-nav > ul > li.menu_column > ul > li + li > a {
+border-top: none;
+}
+
+.side-header .site-nav > ul > li.menu_column {
+    position: relative;
+}
+
+.side-header .site-nav > ul > li.menu_column > ul {
+    width: 600px;
+}
+
+    li.hide-text > a > span.menu-item-label {
+display:none!important;
+}
+}
+
